@@ -2,6 +2,7 @@
   "name": "mypin",
   "version": "0.0.0",
   "private": true,
+  "main":"app.js",
   "scripts": {
     "start": "node views/index.js"
   },
